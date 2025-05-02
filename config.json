@@ -3,5 +3,5 @@
     "activityInterval": 5,
     "botMainColor": "0x152448",
     "botErrorColor": "0xdb3535",
-    "database": "mongodb+srv://havarhost:uB16x9wiwgaBnyTA@havarhost.7kntakv.mongodb.net/?retryWrites=true&w=majority"
+    "database": "mongodb+srv://name:password@name.mongodb.net/?retryWrites=true&w=majority"
 }
